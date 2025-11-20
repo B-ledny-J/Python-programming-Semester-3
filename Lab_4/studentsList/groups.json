@@ -1,0 +1,37 @@
+[
+  {
+    "groupNumber": "101",
+    "students": [
+      {
+        "lastName": "Shevchenko",
+        "firstName": "Taras",
+        "patronymic": "Hryhorovych",
+        "birthday": "2002-05-12",
+        "yearOfJoining": 2020,
+        "type": "budget",
+        "scholarship": 1000
+      },
+      {
+        "lastName": "Johnson",
+        "firstName": "Michael",
+        "patronymic": "James",
+        "birthday": "2001-09-20",
+        "yearOfJoining": 2019,
+        "type": "regular"
+      }
+    ]
+  },
+  {
+    "groupNumber": "102",
+    "students": [
+      {
+        "lastName": "Koval",
+        "firstName": "Oksana",
+        "patronymic": "Petrovna",
+        "birthday": "2003-01-15",
+        "yearOfJoining": 2021,
+        "type": "regular"
+      }
+    ]
+  }
+]

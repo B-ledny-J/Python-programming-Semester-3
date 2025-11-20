@@ -1,0 +1,26 @@
+[
+    {
+        "lastName": "Melnyk",
+        "firstName": "Andriy",
+        "patronymic": "Ivanovych",
+        "birthday": 1975,
+        "seniority": 20,
+        "disciplines": ["Mathematics", "Physics"]
+    },
+    {
+        "lastName": "Smith",
+        "firstName": "John",
+        "patronymic": "William",
+        "birthday": 1982,
+        "seniority": 12,
+        "disciplines": ["Computer Science", "Algorithms"]
+    },
+    {
+        "lastName": "Kravchenko",
+        "firstName": "Olena",
+        "patronymic": "Petrovna",
+        "birthday": 1978,
+        "seniority": 18,
+        "disciplines": ["Chemistry", "Biology"]
+    }
+]

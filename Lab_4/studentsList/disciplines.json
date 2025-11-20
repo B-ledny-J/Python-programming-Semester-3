@@ -1,0 +1,4 @@
+[
+    {"discName": "Mathematics", "creditsAmount": 5, "numberOfSemesters": 1},
+    {"discName": "Physics", "creditsAmount": 4, "numberOfSemesters": 2}
+]
